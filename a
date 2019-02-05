@@ -1,6 +1,10 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 This is touch branch
 =======
 This is sample file
 After reset  
 >>>>>>> master
+=======
+This is touch branch
+>>>>>>> c2f9bc9... touch1
